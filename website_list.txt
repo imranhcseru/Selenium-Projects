@@ -1,0 +1,4 @@
+SN	Site Name	URL	
+1	Amazon	https://amazon.com	
+2	Yahoo	https://yahoo.com	
+3	Google	https://google.com	

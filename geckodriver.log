@@ -1,0 +1,322 @@
+1531042587406	geckodriver	INFO	geckodriver 0.21.0
+1531042587416	geckodriver	INFO	Listening on 127.0.0.1:5640
+1531042590454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Achilies\\AppData\\Local\\Temp\\rust_mozprofile.tWzpnLGcweMY"
+1531042593899	Marionette	INFO	Listening on port 5652
+1531042594273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531042594353	Marionette	DEBUG	[6442450945] Frame script loaded
+1531042594494	Marionette	DEBUG	[6442450945] Frame script registered
+1531042594526	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531042596230	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531042597842	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://infobypokharelk.blogspot.com/
+1531042599807	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+1531045977259	geckodriver	INFO	geckodriver 0.21.0
+1531045977279	geckodriver	INFO	Listening on 127.0.0.1:4932
+1531045980348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Achilies\\AppData\\Local\\Temp\\rust_mozprofile.zjKu5g37ubxE"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1531045987142	Marionette	INFO	Listening on port 4941
+1531045987617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531045987643	Marionette	DEBUG	[6442450945] Frame script loaded
+1531045987855	Marionette	DEBUG	[6442450945] Frame script registered
+1531045988323	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531045990757	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531045992163	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://infobypokharelk.blogspot.com/
+1531045993146	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[[CChhild 6848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346ild 7840, Chrome_ChildThread] WARNING: pipe err
+or: 109: file[Child 6848, Chrome_ChildThread] WARNING:  pipe error: 109: file z:/build/build/src/ipc/chromium/src/z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7840, Chrome_ChildThread] WARN[Parent 7348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7996, Chrome1531046512230	Marionette	INFO	Stopped listening on port 4941
+[GPU 8704, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+okharelk.blogspot.com/
+1531046238126	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Child 2424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2424, Chrome_ChildThread] WAR[Parent 4900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531046515092	Marionette	INFO	Stopped listening on port 5124
+[GPU 4156, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531047502178	geckodriver	INFO	geckodriver 0.21.0
+1531047502184	geckodriver	INFO	Listening on 127.0.0.1:8823
+1531047505227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Achilies\\AppData\\Local\\Temp\\rust_mozprofile.psr6QMDIK8fD"
+1531047508059	Marionette	INFO	Listening on port 8835
+1531047508448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531047508494	Marionette	DEBUG	[6442450945] Frame script loaded
+1531047508496	Marionette	DEBUG	[6442450945] Frame script registered
+1531047508512	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531047509914	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531047512327	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://infobypokharelk.blogspot.com/
+1531047514885	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Child 4056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4056, Chrome_ChildThread] WARNING: pipe error: 109[Parent 5264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531047600523	Marionette	INFO	Stopped listening on port 8835
+[GPU 7280, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ut:blank
+1531047596531	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://infobypokharelk.blogspot.com/
+1531047610942	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Parent 5420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9976, Chro[Child 2348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2348, Chrome[Parent 5420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531047711650	Marionette	INFO	Stopped listening on port 9020
+[GPU 6528, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+1531047733075	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+1531047759243	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 4172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531047869358	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 3080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3080, Chrom[Child 3884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3884, Chrome_ChildThread] WARN[Parent 4172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3788, Chrome_ChildThread] WARNING: pipe error: 1091531047871531047900030	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Parent 10148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531048884300	Marionette	INFO	Stopped listening on port 9568
+[GPU 7308, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ette	DEBUG	[6442450945] Frame script registered
+1531048880154	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531048882193	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531048883868	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://infobypokharelk.blogspot.com/
+1531048885850	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Parent 9012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7820, Chrome_ChildThread] WARNING: pipe error: 109: fi[Parent 9012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531049458503	Marionette	INFO	Stopped listening on port 11215
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+om/
+1531048975060	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Parent 9644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7492, Chrome_ChildThread] WARNING: pipe error: 109: f[Child 9288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9288, Chrome_ChildThread] WARNING: pipe err1531049457912	Marionette	INFO	Stopped listening on port 11422
+[GPU 4692, 
+###!!! [Child][MessageChannel::SendAndWait] Error: C1531049459794	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://infobypokharelk.blogspot.com/
+1531049464787	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Parent 3812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531049724063	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5936, Chro[Child 9388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9388, Chrom1531049724810	Marionette	INFO	Stopped listening on port 12657
+[GPU 2884, Chrome_ChildThread] 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Loaded for https://infobypokharelk.blogspot.com/
+1531049612923	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Child 9912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531049658623	Marionette	INFO	Stopped listening on port 12938
+[GPU 8928, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+//infobypokharelk.blogspot.com/
+1531049646301	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Parent 10428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10868, Chrome_ChildThr[Parent 10428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10844, C1531049657860	Marionette	INFO	Stopped listening on port 13069
+[GPU 10704, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531050154520	geckodriver	INFO	geckodriver 0.21.0
+1531050154526	geckodriver	INFO	Listening on 127.0.0.1:14131
+1531050157595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Achilies\\AppData\\Local\\Temp\\rust_mozprofile.iSzIQdAmD8fL"
+1531050160660	Marionette	INFO	Listening on port 14145
+1531050160807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531050160833	Marionette	DEBUG	[6442450945] Frame script loaded
+1531050160835	Marionette	DEBUG	[6442450945] Frame script registered
+1531050160851	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531050167708	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531050173521	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://infobypokharelk.blogspot.com/
+1531050183649	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Parent 2516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11156, Chrome_Ch[Child 9112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9112, Ch[Parent 2516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3932, Chrom1531050349252	Marionette	INFO	Stopped listening on port 14145
+[GPU 8684, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5164, Chrome_ChildThread] WARNING: pipe error: 109: file [Child 7924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7924, Ch1531050348054	Marionette	INFO	Stopped listening on port 14413
+[GPU 8596, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://infobypokharelk.blogspot.com/
+1531050326081	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://infobypokharelk.blogspot.com/
+[Parent 8772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8216, Chrome[Parent 8772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6612, Chro1531050347313	Marionette	INFO	Stopped listening on port 14792
+[GPU 5932, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531301662965	geckodriver	INFO	geckodriver 0.21.0
+1531301663037	geckodriver	INFO	Listening on 127.0.0.1:11167
+1531301666234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Achilies\\AppData\\Local\\Temp\\rust_mozprofile.EvONtfsvAVxU"
+1531301673119	Marionette	INFO	Listening on port 11179
+1531301673544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531301673602	Marionette	DEBUG	[6442450945] Frame script loaded
+1531301673610	Marionette	DEBUG	[6442450945] Frame script registered
+[Child 1212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9012, Chrome_ChildThread] WA1531303315521	Marionette	INFO	Stopped listening on port 11179
+[GPU 4160, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recvconsole.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: (new TypeError("currentPanel is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js", 2763))
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/_cA6cqZLmSG.css, using system principal instead."
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:613:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+[Parent 3240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: (new Error("Connection closed, pending request to server1.conn0.child1/pagestyle28, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1332:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1486:14\nPageStyleFront<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:82:23\npopulate@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/models/element-style.js:87:23\n_populate@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:961:12\nselectElement/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:876:16\nprocess@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:928:23\nwalkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:7\nscheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:748:11\n", "resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js", 1275))
+console.error: (new Error("Connection closed, pending request to server1.conn0.child1/pagestyle28, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1332:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1486:14\nPageStyleFront<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:82:23\npopulate@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/models/element-style.js:87:23\n_populate@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:961:12\nselectElement/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:876:16\nprocess@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:928:23\nwalkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:7\nscheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:748:11\n", "resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js", 1275))
+console.error: (new Error("Connection closed, pending request to server1.conn0.child1/pagestyle28, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1332:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1486:14\nPageStyleFront<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:82:23\npopulate@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/models/element-style.js:87:23\n_populate@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:961:12\nselectElement/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:876:16\nprocess@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:928:23\nwalkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:7\nscheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:748:11\n", "resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js", 1275))
+[Child 1088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1088, Chrome_ChildThread] W[Child 6552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_ch[Parent 3240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531304406034	Marionette	INFO	Stopped listening on port 11268
+[GPU 9236, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531324474929	geckodriver	INFO	geckodriver 0.21.0
+1531324474929	geckodriver	INFO	Listening on 127.0.0.1:2983
+1531324478016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Achilies\\AppData\\Local\\Temp\\rust_mozprofile.wIU1hPrSJGS5"
+1531324482205	Marionette	INFO	Listening on port 3014
+1531324482453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531324482480	Marionette	DEBUG	[6442450945] Frame script loaded
+1531324482481	Marionette	DEBUG	[6442450945] Frame script registered
+1531324482496	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531324485408	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531324493248	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1531324519537	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1531324519922	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 9308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9180, Chrome_ChildThread] WARNING:[Child 10900, Chrome_ChildThread] WARNING: pi pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10900, Chrome_ChildThread] WARNING[Parent 9308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10144, Ch1531324784473	Marionette	INFO	Stopped listening on port 3014
+[GPU 7984, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531334296976	geckodriver	INFO	geckodriver 0.21.0
+1531334296998	geckodriver	INFO	Listening on 127.0.0.1:4429
+1531334300041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Achilies\\AppData\\Local\\Temp\\rust_mozprofile.BEKxrul1JOAq"
+1531334303901	Marionette	INFO	Listening on port 4441
+1531334303921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531334303952	Marionette	DEBUG	[6442450945] Frame script loaded
+1531334303954	Marionette	DEBUG	[6442450945] Frame script registered
+1531334303979	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531334309353	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531334319595	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1531334319601	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 5044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6580, Chrome1531334320534	Marionette	INFO	Stopped listening on port 4441
+[GPU 6900, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531335069634	geckodriver	INFO	geckodriver 0.21.0
+1531335069653	geckodriver	INFO	Listening on 127.0.0.1:8071
+1531335072686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Achilies\\AppData\\Local\\Temp\\rust_mozprofile.Q3mRJoClEVZu"
+1531335075683	Marionette	INFO	Listening on port 8101
+1531335075898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531335075936	Marionette	DEBUG	[6442450945] Frame script loaded
+1531335075938	Marionette	DEBUG	[6442450945] Frame script registered
+1531335075967	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1531335079346	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1531335086432	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1531335099922	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1531335103772	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531335104089	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1531335104189	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1531335105390	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1531335105391	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1531335106710	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1531335106710	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1531335106710	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1531335106710	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1531335106711	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1531335109134	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1531335114229	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1531335117433	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1531335121987	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1531335137883	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1531335210415	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1531335216914	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1531335216977	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+[Parent 3456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3456, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1531335217091	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1531335217092	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1531335217094	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450990
+1531335217094	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1531335217094	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1531335217095	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 3456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 200, Chrome_ChildThread][Parent 3456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4680, Chro1531335217842	Marionette	INFO	Stopped listening on port 8101
+[GPU 964, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
